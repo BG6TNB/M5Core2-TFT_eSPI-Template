@@ -1,5 +1,7 @@
 # M5Core2 TFT_eSPI Template
 
+![](./IMG_5788.jpeg)
+
 This project is a template project to run the TFT_eSPI library directly on M5Core2, only the libs necessary to run TFT_eSPI are installed, other than that it is very clean.
 
 The project has been configured with all the relevant parameters, and can be cloned locally and opened with the PlatformIO IDE to run the example program directly.
